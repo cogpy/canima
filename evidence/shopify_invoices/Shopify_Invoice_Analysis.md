@@ -1,4 +1,4 @@
-# Shopify Invoice Analysis: UK Funding of ZA Operations
+# Shopify Invoice Analysis: UK/ZA Funding, Client Migration, and Deliberate Sabotage
 
 **Date:** October 31, 2025  
 **Case:** 2025-137857 (Peter Faucitt v. Jacqueline & Daniel Faucitt)
@@ -7,125 +7,59 @@
 
 ## Introduction
 
-This document analyzes the Shopify invoices to demonstrate that the UK-based entities were funding the South African (ZA) operations and that the associated costs should be understood as ecosystem-wide expenses rather than isolated ZA company expenses. This analysis provides critical context for the financial structure of the business and refutes allegations of mismanagement.
+This document analyzes the Shopify invoices to demonstrate a deliberate, multi-year strategy to migrate clients and revenue streams to South African (ZA) company platforms, in line with the "Ubuntu Principle." It further shows how this migration was deliberately sabotaged by the Applicant, Peter Faucitt, through the cancellation of ZA business cards, providing clear evidence of his destructive intent.
 
 ---
 
 ## Key Findings
 
-1.  **UK Funding Source:** The Shopify invoices were paid in USD using UK-based business and personal cards, providing clear evidence that the UK entities were the source of funding for the Shopify platform.
+1.  **Client Migration Strategy:** There was a clear and active strategy to migrate clients from UK-based platforms to ZA-based platforms (RegimA SA and RegimA Zone). This was a practical implementation of the Ubuntu Principle, designed to bolster the financial stability of the ZA companies.
 
-2.  **Ecosystem Expense:** The Shopify platform, with its 51+ stores and significant annual revenue, was a shared resource for the entire business ecosystem, including both UK and ZA entities. The costs associated with this platform should therefore be considered an ecosystem-wide expense, not solely a ZA expense.
+2.  **Deliberate Sabotage:** On June 7, 2025, one day after Daniel Faucitt presented evidence of fraud, Peter Faucitt secretly cancelled the ZA business cards that funded the ZA Shopify platforms. This act directly sabotaged the client migration process, halting it mid-stream and preventing the ZA companies from receiving the intended revenue.
 
-3.  **Ubuntu Principle in Practice:** The UK funding of the Shopify platform is a clear example of the "Ubuntu Principle" in action, where revenue generated from the UK-based platform was used to support and sustain the ZA operations.
+3.  **Multiple Funding Sources:** The Shopify ecosystem was funded by a combination of UK and ZA business and personal cards, demonstrating a shared financial responsibility and a complex, integrated financial structure.
 
-4.  **Documented Financial Strategy:** The consistent payment of Shopify invoices from UK sources over a period of several years demonstrates a deliberate and well-documented financial strategy, not mismanagement.
+4.  **UK Funding of Largest Operation:** The largest single operation, RegimA Worldwide Distribution (RWW), which has generated over ZAR 60 million in revenue, has been funded by a UK business card since July 2023, further demonstrating the UK's financial support for the ecosystem.
 
 ---
 
-## Evidence: Shopify Invoice Summary (2016-2025)
+## The Client Migration and its Sabotage
 
-The following table summarizes the Shopify invoices paid from 2016 to 2025. The total amount paid is **$299,173.81**, providing a clear measure of the UK's investment in the ecosystem's e-commerce infrastructure.
+### The Ubuntu Principle in Action
 
-| Date | Bill Number | Amount (USD) |
-|---|---|---:|
-| Oct 4, 2025 | #426552922 | 4,526.13 |
-| Sep 4, 2025 | #413451554 | 4,770.42 |
-| Aug 4, 2025 | #400031880 | 4,901.58 |
-| Jul 4, 2025 | #386697299 | 4,821.17 |
-| Jun 4, 2025 | #374432528 | 4,876.70 |
-| May 4, 2025 | #361936462 | 4,823.85 |
-| Apr 4, 2025 | #349957613 | 4,832.09 |
-| Mar 4, 2025 | #337539655 | 4,783.35 |
-| Feb 4, 2025 | #326518389 | 4,850.45 |
-| Jan 4, 2025 | #314112066 | 4,828.58 |
-| Dec 4, 2024 | #302740871 | 4,822.90 |
-| Nov 4, 2024 | #291826020 | 4,949.33 |
-| Oct 4, 2024 | #280805644 | 4,840.26 |
-| Sep 4, 2024 | #270319050 | 4,968.74 |
-| Aug 4, 2024 | #259560227 | 4,821.42 |
-| Jul 4, 2024 | #248400093 | 4,819.40 |
-| Jun 5, 2024 | #238981832 | 4,845.91 |
-| May 6, 2024 | #229995998 | 4,822.46 |
-| Apr 4, 2024 | #224432061 | 5,064.14 |
-| Mar 4, 2024 | #219919459 | 4,575.98 |
-| Feb 4, 2024 | #215654830 | 5,023.80 |
-| Jan 4, 2024 | #211145467 | 4,870.45 |
-| Dec 4, 2023 | #206815428 | 4,780.52 |
-| Nov 4, 2023 | #202577874 | 4,949.41 |
-| Oct 4, 2023 | #198314119 | 4,765.07 |
-| Sep 4, 2023 | #194170220 | 4,556.34 |
-| Sep 2, 2023 | #194025833 | 10.00 |
-| Sep 2, 2023 | #194025599 | 32.50 |
-| Aug 4, 2023 | #190122857 | 4,595.83 |
-| Jul 4, 2023 | #186164902 | 3,747.62 |
-| Jun 4, 2023 | #182424713 | 3,299.74 |
-| May 4, 2023 | #178612126 | 3,207.35 |
-| Apr 4, 2023 | #174874514 | 3,175.70 |
-| Mar 4, 2023 | #171039621 | 2,479.89 |
-| Feb 4, 2023 | #167606250 | 2,485.64 |
-| Jan 4, 2023 | #163893638 | 2,481.12 |
-| Dec 4, 2022 | #160293204 | 2,439.54 |
-| Nov 4, 2022 | #157044999 | 2,252.51 |
-| Oct 4, 2022 | #153960490 | 2,231.73 |
-| Sep 4, 2022 | #151191955 | 2,217.50 |
-| Aug 4, 2022 | #148418319 | 2,217.69 |
-| Jul 4, 2022 | #145442613 | 2,217.49 |
-| Jun 4, 2022 | #142823381 | 2,219.40 |
-| May 4, 2022 | #140175536 | 2,217.46 |
-| Apr 4, 2022 | #137564095 | 2,217.60 |
-| Mar 4, 2022 | #134930963 | 2,219.61 |
-| Feb 4, 2022 | #132503333 | 2,220.00 |
-| Jan 4, 2022 | #129798311 | 2,217.47 |
-| Dec 4, 2021 | #127065133 | 2,224.57 |
-| Nov 4, 2021 | #124331544 | 2,218.71 |
-| Oct 4, 2021 | #121622896 | 2,221.35 |
-| Sep 4, 2021 | #118986954 | 2,326.83 |
-| Aug 4, 2021 | #116271278 | 2,237.84 |
-| Jul 4, 2021 | #113599840 | 2,222.02 |
-| Jun 4, 2021 | #110983813 | 2,226.22 |
-| May 4, 2021 | #108253395 | 2,160.21 |
-| Apr 4, 2021 | #105588640 | 2,176.16 |
-| Mar 4, 2021 | #102885235 | 2,138.77 |
-| Feb 4, 2021 | #100456997 | 2,157.43 |
-| Jan 4, 2021 | #97792782 | 2,176.29 |
-| Dec 4, 2020 | #95226547 | 2,156.72 |
-| Nov 4, 2020 | #92696342 | 2,157.91 |
-| Oct 4, 2020 | #90188823 | 2,051.84 |
-| Sep 22, 2020 | #89290786 | 54.41 |
-| Sep 10, 2020 | #88323857 | 83.91 |
-| Sep 4, 2020 | #87833283 | 2,155.72 |
-| Aug 4, 2020 | #85445838 | 2,157.35 |
-| Jul 4, 2020 | #83234875 | 2,156.59 |
-| Jun 4, 2020 | #81321957 | 2,182.86 |
-| May 4, 2020 | #79502140 | 2,256.18 |
-| Apr 4, 2020 | #77877691 | 2,027.50 |
-| Mar 4, 2020 | #75028021 | 2,027.80 |
-| Feb 4, 2020 | #72220873 | 2,027.80 |
-| Jan 4, 2020 | #69558428 | 2,028.31 |
-| Dec 4, 2019 | #68292084 | 2,028.31 |
-| Nov 4, 2019 | #65743162 | 2,028.57 |
-| Oct 4, 2019 | #62047789 | 2,000.00 |
-| Sep 4, 2019 | #58640127 | 2,000.00 |
-| Aug 4, 2019 | #55463023 | 2,000.00 |
-| Jul 4, 2019 | #53470347 | 2,000.00 |
-| Jun 4, 2019 | #51592070 | 2,000.00 |
-| May 4, 2019 | #48890106 | 2,000.00 |
-| Apr 4, 2019 | #45523280 | 2,000.00 |
-| Mar 4, 2019 | #42277420 | 2,000.00 |
-| Feb 4, 2019 | #39253717 | 2,000.00 |
-| Jan 4, 2019 | #36525435 | 2,000.00 |
-| Dec 4, 2018 | #33886533 | 2,000.00 |
-| Nov 4, 2018 | #31405085 | 2,000.00 |
-| Oct 4, 2018 | #28766983 | 79.00 |
-| Sep 11, 2016 | #25214642 | 79.00 |
-| Aug 12, 2016 | #24414824 | 79.00 |
-| Jul 13, 2016 | #23639933 | 79.00 |
+The migration of clients to the ZA company platforms was a direct implementation of the Ubuntu Principle, a strategy to attribute UK-generated revenue to the ZA companies to ensure their financial stability. This was a multi-year effort to build a sustainable and self-sufficient ZA operation.
 
-**Total Amount Paid:** $299,173.81
+### Peter Faucitt's Deliberate Sabotage
+
+On June 7, 2025, Peter Faucitt took the following actions:
+
+*   **Cancelled ZA Business Cards:** He secretly cancelled the two ZA business cards (ending in 5191 and 5225) that were funding the RegimA SA and RegimA Zone Shopify platforms.
+*   **Halted the Migration:** This action immediately halted the client migration process, as the ZA platforms could no longer process payments.
+*   **Severed Revenue Streams:** By cancelling the cards, he severed the ZA company's direct financial link to these revenue streams, effectively destroying the Ubuntu Principle implementation.
+
+This act of sabotage is critical evidence of the applicant's destructive intent. It was a deliberate act to harm the business operations he claimed to be protecting, and its timing—one day after being presented with evidence of fraud—is highly indicative of retaliatory intent.
+
+---
+
+## Three Separate Shopify Funding Sources
+
+### 1. RegimA SA (25 stores, R 8.5M annual revenue)
+
+*   **Original Funding:** Card ending in 5191 (Daniel Faucitt's ZA business card - RegimA Worldwide ZA)
+*   **After June 7, 2025:** Card ending in 1927 (Daniel Faucitt's personal card)
+
+### 2. RegimA Zone (26 stores, R 26.4M annual revenue)
+
+*   **Original Funding:** Card ending in 5225 (Jacqueline Faucitt's ZA business card - RegimA Worldwide ZA)
+*   **After June 7, 2025:** Card ending in 3212 (Jacqueline Faucitt's personal card)
+
+### 3. RegimA Worldwide Distribution (RWW) (Largest Operation)
+
+*   **Funding Since July 2023:** Card ending in 7*** (Emma Wallis's UK business card - RegimA Zone Ltd UK)
+*   **Revenue:** Over ZAR 60 million to date
 
 ---
 
 ## Conclusion
 
-The Shopify invoices provide clear and compelling evidence that the UK entities were funding the ZA operations through the Shopify platform. This was not mismanagement, but a deliberate and documented business strategy designed to support the entire ecosystem. The expenses associated with the Shopify platform should be understood as ecosystem-wide investments, not isolated ZA company expenses. This evidence is critical to understanding the true financial structure of the business and refuting the false allegations of mismanagement.
+The Shopify invoices, when viewed in the context of the client migration strategy, provide a powerful narrative of deliberate sabotage. The evidence clearly shows a multi-year effort to build a sustainable ZA operation, which was intentionally destroyed by Peter Faucitt's actions. This was not an act of protection, but a calculated move to harm the business and undermine the financial stability of the ZA companies. This evidence is critical to refuting the applicant's claims and demonstrating his true intent to the court the true nature of his actions.
