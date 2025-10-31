@@ -75,7 +75,7 @@ Do hereby make oath and state as follows:
 
 7.2. **Card Cancellations (AD 7.13, 7.20):** The Applicant confirms that he cancelled the business bank cards in June 2025. This action was taken on **June 7, 2025**, the day after I had provided the Applicant with requested financial information. The cancellation of these cards impeded access to the systems required to produce further documentation.
 
-7.3. **Financial Harm (AD 7.6):** The allegation of financial harm is denied. The R500,000 was a partial repayment of loans made voluntarily and involuntarily by the Second Respondent to the corporate entities. These loans arose from the financial difficulties created by the Applicant's actions. Any financial prejudice suffered by the companies resulted from the Applicant's actions, including the instruction to halt warehouse dispatches and the unauthorized transfer of R900,000 from RegimA SA's bank account in February 2025.
+7.3. **Financial Harm (AD 7.6):** The allegation of financial harm is denied. The R500,000 was a partial repayment of loans made voluntarily and involuntarily by the Second Respondent to the corporate entities. These loans arose from the financial difficulties created by the Applicant's actions. The Second Respondent's personal bank statements, annexed hereto, evidence these loans and the partial repayment. Any financial prejudice suffered by the companies resulted from the Applicant's actions, including the instruction to halt warehouse dispatches and the unauthorized transfer of R900,000 from RegimA SA's bank account in February 2025.
 
 ---
 ### AD PARAGRAPHS 8.4, 8.5, 8.7, 8.10 & 9.2, 9.3: FINANCIAL MISCONDUCT
@@ -168,6 +168,28 @@ WHEREFORE, the Second Respondent prays for an order in the following terms:
 5.  That a full, independent forensic audit be conducted into the financial affairs of the Third to Sixth Respondents, as well as the Faucitt Family Trust, with the scope of the investigation to include the matters raised in paragraph 12.2 of this affidavit.
 6.  That the Applicant be ordered to pay the costs of this application.
 7.  Further and/or alternative relief.
+
+---
+
+## ANNEXURES
+
+**DF1** – Ex parte order (19 August 2025)  
+**DF2** – Shopify Plus onboarding email (26 July 2017)  
+**DF3** – RegimA SA Shopify performance report  
+**DF4** – RegimA Zone Shopify performance report  
+**DF5** – RegimA SA Shopify invoices  
+**DF6** – RegimA Zone Shopify invoices  
+**DF7** – RWD Shopify invoices  
+**DF8** – RegimA SA bank statement (5 Feb–5 Mar 2025)  
+**DF9** – Second Respondent's personal bank statements (evidencing loans to corporate entities and partial repayment)  
+**DF10** – Interdict and warehouse instruction  
+**DF11** – Bantjies evidence bundle (trust deed, investment payout schedule)  
+**DF12** – Sage screenshots (June and August 2025)  
+**DF13** – Email correspondence (SARS audit)  
+**DF14** – Systematic timeline documentation (1 Mar - 11 Sep 2025)  
+**DF15** – Email correspondence (6 Jun cooperation, 7 Jun card cancellation)  
+**DF16** – Transfer pricing evidence (SLG stock adjustment documentation)  
+**DF17** – Estate proceeds evidence (R1,035,000 debt, confrontation, order removal, domain registration)
 
 ---
 
