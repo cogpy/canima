@@ -80,7 +80,7 @@ Do hereby make oath and state as follows:
 
 7.2. **Card Cancellations (AD 7.13, 7.20):** The Applicant admits to cancelling the business bank cards in June 2025. This was a deliberate act of sabotage. On **June 6, 2025**, I cooperated fully with the Applicant’s request for financial information. The very next day, **June 7, 2025**, the Applicant cancelled the cards, cutting off access to the very systems needed to provide the requested documentation. This is not the action of a concerned director; it is the action of a saboteur, as detailed in the timeline of the coordinated attack in **Annexure DA3** (Nine_Prong_Attack).
 
-7.3. **Financial Harm (AD 7.6):** The Applicant’s claim that I caused financial harm is baseless. The R500,000 loan mentioned was part of the normal course of business. The real financial harm was caused by the Applicant’s own actions, including the warehouse sabotage and the unauthorized transfer of R900,000 from RegimA SA’s bank account in February 2025. The warehouse sabotage is detailed in **Annexure DA4** (Warehouse_Fraud_Evidence).
+7.3. **Financial Harm (AD 7.6):** The Applicant’s claim that I caused financial harm is baseless. The R500,000 loan mentioned was part of the normal course of business. The real financial harm was caused by the Applicant’s own actions, including the warehouse sabotage The warehouse sabotage is detailed in **Annexure DA4** (Warehouse_Fraud_Evidence).
 
 ### AD PARAGRAPHS 8.4, 8.5, 8.7, 8.10 & 9.2, 9.3: FINANCIAL MISCONDUCT
 
@@ -115,7 +115,7 @@ Do hereby make oath and state as follows:
 10.4. **The Threat of Insolvency is of the Applicant’s Own Making:** The Applicant’s prediction of insolvency is a self-fulfilling prophecy. The only reason these companies face financial distress is due to his own malicious actions, as detailed in **Annexure DA3**, including:
     - Blocking **R34.9 million** in annual revenue by sabotaging the warehouse.
     - Diverting clients to a new, competing website (`regimaskin.co.za`) registered by his agent’s son.
-    - Illegally transferring **R900,000** from RegimA SA’s account.
+    
     - Emptying the remaining accounts on **September 11, 2025**.
 
 ### AD PARAGRAPHS 13.2 through 13.8: REQUIREMENTS FOR INTERDICTORY RELIEF
