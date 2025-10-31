@@ -75,7 +75,7 @@ Do hereby make oath and state as follows:
 
 7.2. **Card Cancellations (AD 7.13, 7.20):** The Applicant confirms that he cancelled the business bank cards in June 2025. This action was taken on **June 7, 2025**, the day after I had provided the Applicant with requested financial information. The cancellation of these cards impeded access to the systems required to produce further documentation.
 
-7.3. **Financial Harm (AD 7.6):** The allegation of financial harm is denied. The R500,000 loan was a transaction within the normal course of business. Any financial prejudice suffered by the companies resulted from the Applicant's actions, including the instruction to halt warehouse dispatches and the unauthorized transfer of R900,000 from RegimA SA’s bank account in February 2025.
+7.3. **Financial Harm (AD 7.6):** The allegation of financial harm is denied. The R500,000 was a partial repayment of loans made voluntarily and involuntarily by the Second Respondent to the corporate entities. These loans arose from the financial difficulties created by the Applicant's actions. Any financial prejudice suffered by the companies resulted from the Applicant's actions, including the instruction to halt warehouse dispatches and the unauthorized transfer of R900,000 from RegimA SA's bank account in February 2025.
 
 ---
 ### AD PARAGRAPHS 8.4, 8.5, 8.7, 8.10 & 9.2, 9.3: FINANCIAL MISCONDUCT
