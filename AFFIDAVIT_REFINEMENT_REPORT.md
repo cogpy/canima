@@ -239,7 +239,7 @@ The analysis identified a systematic pattern of financial sabotage spanning six 
 **Status:** Previously incomplete, now comprehensively addressed.
 
 **New Content Added:**
-> "I deny that my wife or I have acted in a manner that is delinquent, grossly negligent, or in breach of trust. The Applicant's allegations in this regard are without merit and are a complete inversion of the truth. The application to declare us delinquent is a malicious and baseless attempt to remove us from the companies we built and to conceal the Applicant's own unlawful conduct.
+> "I deny that my mother, the First Respondent, or I have acted in a manner that is delinquent, grossly negligent, or in breach of trust. The Applicant's allegations in this regard are without merit and are a complete inversion of the truth. The application to declare us delinquent is a malicious and baseless attempt to remove us from the companies we built and to conceal the Applicant's own unlawful conduct.
 >
 > The Applicant's reliance on Sections 42 and 47 of the Close Corporations Act and Section 162 of the Companies Act is misplaced. It is the Applicant and his agents, not the Respondents, who have acted in a manner that is grossly negligent, inflicted harm upon the companies, and breached their fiduciary duties.
 >

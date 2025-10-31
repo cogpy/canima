@@ -98,7 +98,7 @@ Do hereby make oath and state as follows:
 ---
 ### AD PARAGRAPHS 10.1 through 10.14: APPLICATION TO DECLARE RESPONDENTS DELINQUENT
 
-9.1. I deny that my wife, the First Respondent, or I have acted in a manner that is delinquent, oppressive, or prejudicial as alleged by the Applicant. These allegations are a gross distortion of the truth and an abuse of the Companies Act and Close Corporations Act.
+9.1. I deny that my mother, the First Respondent, or I have acted in a manner that is delinquent, oppressive, or prejudicial as alleged by the Applicant. These allegations are a gross distortion of the truth and an abuse of the Companies Act and Close Corporations Act.
 
 9.2. The Applicant cynically cites sections of the Companies Act and Close Corporations Act related to fiduciary duties, gross negligence, and breach of trust. This is the height of hypocrisy, as it is the Applicant and his agents—namely **Danie Bantjies** and **Rynette Farrar**—who have systematically breached every one of these duties.
 
