@@ -1,0 +1,3345 @@
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Oct 4, 2025	
+#426552922
+
+Billing cycle
+
+Paid
+$4,526.13
+
+
+Select invoice
+Sep 4, 2025	
+#413451554
+
+Billing cycle
+
+Paid
+$4,770.42
+
+
+Select invoice
+Aug 4, 2025	
+#400031880
+
+Billing cycle
+
+Paid
+$4,901.58
+
+
+Select invoice
+Jul 4, 2025	
+#386697299
+
+Billing cycle
+
+Paid
+$4,821.17
+
+
+Select invoice
+Jun 4, 2025	
+#374432528
+
+Billing cycle
+
+Paid
+$4,876.70
+
+
+Select invoice
+May 4, 2025	
+#361936462
+
+Billing cycle
+
+Paid
+$4,823.85
+
+
+Select invoice
+Apr 4, 2025	
+#349957613
+
+Billing cycle
+
+Paid
+$4,832.09
+
+
+Select invoice
+Mar 4, 2025	
+#337539655
+
+Billing cycle
+
+Paid
+$4,783.35
+
+
+Select invoice
+Feb 4, 2025	
+#326518389
+
+Billing cycle
+
+Paid
+$4,850.45
+
+
+Select invoice
+Jan 4, 2025	
+#314112066
+
+Billing cycle
+
+Paid
+$4,828.58
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Dec 4, 2024	
+#302740871
+
+Billing cycle
+
+Paid
+$4,822.90
+
+
+Select invoice
+Nov 4, 2024	
+#291826020
+
+Billing cycle
+
+Paid
+$4,949.33
+
+
+Select invoice
+Oct 4, 2024	
+#280805644
+
+Billing cycle
+
+Paid
+$4,840.26
+
+
+Select invoice
+Sep 4, 2024	
+#270319050
+
+Billing cycle
+
+Paid
+$4,968.74
+
+
+Select invoice
+Aug 4, 2024	
+#259560227
+
+Billing cycle
+
+Paid
+$4,821.42
+
+
+Select invoice
+Jul 4, 2024	
+#248400093
+
+Billing cycle
+
+Paid
+$4,819.40
+
+
+Select invoice
+Jun 5, 2024	
+#238981832
+
+Billing cycle
+
+Paid
+$4,845.91
+
+
+Select invoice
+May 6, 2024	
+#229995998
+
+Billing cycle
+
+Paid
+$4,822.46
+
+
+Select invoice
+Apr 4, 2024	
+#224432061
+
+Billing cycle
+
+Paid
+$5,064.14
+
+
+Select invoice
+Mar 4, 2024	
+#219971512
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Mar 4, 2024	
+#219952542
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Mar 4, 2024	
+#219921131
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Mar 4, 2024	
+#219919459
+
+Billing cycle
+
+Paid
+$4,575.98
+
+
+Select invoice
+Feb 4, 2024	
+#215654830
+
+Billing cycle
+
+Paid
+$5,023.80
+
+
+Select invoice
+Jan 4, 2024	
+#211145467
+
+Billing cycle
+
+Paid
+$4,870.45
+
+
+Select invoice
+Dec 4, 2023	
+#206815428
+
+Billing cycle
+
+Paid
+$4,780.52
+
+
+Select invoice
+Nov 4, 2023	
+#202577874
+
+Billing cycle
+
+Paid
+$4,949.41
+
+
+Select invoice
+Oct 4, 2023	
+#198314119
+
+Billing cycle
+
+Paid
+$4,765.07
+
+
+Select invoice
+Sep 4, 2023	
+#194170220
+
+Billing cycle
+
+Paid
+$4,556.34
+
+
+Select invoice
+Sep 2, 2023	
+#194025833
+
+App
+
+Paid
+$10.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Sep 2, 2023	
+#194025599
+
+App
+
+Paid
+$32.50
+
+
+Select invoice
+Aug 4, 2023	
+#190122857
+
+Billing cycle
+
+Paid
+$4,595.83
+
+
+Select invoice
+Jul 4, 2023	
+#186164902
+
+Billing cycle
+
+Paid
+$3,747.62
+
+
+Select invoice
+Jun 4, 2023	
+#182424713
+
+Billing cycle
+
+Paid
+$3,299.74
+
+
+Select invoice
+May 4, 2023	
+#178612126
+
+Billing cycle
+
+Paid
+$3,207.35
+
+
+Select invoice
+Apr 4, 2023	
+#174874514
+
+Billing cycle
+
+Paid
+$3,175.70
+
+
+Select invoice
+Mar 4, 2023	
+#171039621
+
+Billing cycle
+
+Paid
+$2,479.89
+
+
+Select invoice
+Feb 4, 2023	
+#167606250
+
+Billing cycle
+
+Paid
+$2,485.64
+
+
+Select invoice
+Jan 4, 2023	
+#163893638
+
+Billing cycle
+
+Paid
+$2,481.12
+
+
+Select invoice
+Dec 4, 2022	
+#160293204
+
+Billing cycle
+
+Paid
+$2,439.54
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Nov 4, 2022	
+#157044999
+
+Billing cycle
+
+Paid
+$2,252.51
+
+
+Select invoice
+Oct 4, 2022	
+#153960490
+
+Billing cycle
+
+Paid
+$2,231.73
+
+
+Select invoice
+Sep 4, 2022	
+#151191955
+
+Billing cycle
+
+Paid
+$2,217.50
+
+
+Select invoice
+Aug 4, 2022	
+#148418319
+
+Billing cycle
+
+Paid
+$2,217.69
+
+
+Select invoice
+Jul 4, 2022	
+#145442613
+
+Billing cycle
+
+Paid
+$2,217.49
+
+
+Select invoice
+Jun 4, 2022	
+#142823381
+
+Billing cycle
+
+Paid
+$2,219.40
+
+
+Select invoice
+May 4, 2022	
+#140175536
+
+Billing cycle
+
+Paid
+$2,217.46
+
+
+Select invoice
+Apr 4, 2022	
+#137564095
+
+Billing cycle
+
+Paid
+$2,217.60
+
+
+Select invoice
+Mar 4, 2022	
+#134930963
+
+Billing cycle
+
+Paid
+$2,219.61
+
+
+Select invoice
+Feb 4, 2022	
+#132503333
+
+Billing cycle
+
+Paid
+$2,220.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Jan 4, 2022	
+#129798311
+
+Billing cycle
+
+Paid
+$2,217.47
+
+
+Select invoice
+Dec 4, 2021	
+#127065133
+
+Billing cycle
+
+Paid
+$2,224.57
+
+
+Select invoice
+Nov 4, 2021	
+#124331544
+
+Billing cycle
+
+Paid
+$2,218.71
+
+
+Select invoice
+Oct 4, 2021	
+#121622896
+
+Billing cycle
+
+Paid
+$2,221.35
+
+
+Select invoice
+Sep 4, 2021	
+#118986954
+
+Billing cycle
+
+Paid
+$2,326.83
+
+
+Select invoice
+Aug 4, 2021	
+#116271278
+
+Billing cycle
+
+Paid
+$2,237.84
+
+
+Select invoice
+Jul 4, 2021	
+#113599840
+
+Billing cycle
+
+Paid
+$2,222.02
+
+
+Select invoice
+Jun 4, 2021	
+#110983813
+
+Billing cycle
+
+Paid
+$2,226.22
+
+
+Select invoice
+May 4, 2021	
+#108253395
+
+Billing cycle
+
+Paid
+$2,160.21
+
+
+Select invoice
+Apr 4, 2021	
+#105588640
+
+Billing cycle
+
+Paid
+$2,176.16
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Mar 4, 2021	
+#102885235
+
+Billing cycle
+
+Paid
+$2,138.77
+
+
+Select invoice
+Feb 4, 2021	
+#100456997
+
+Billing cycle
+
+Paid
+$2,157.43
+
+
+Select invoice
+Jan 4, 2021	
+#97792782
+
+Billing cycle
+
+Paid
+$2,176.29
+
+
+Select invoice
+Dec 4, 2020	
+#95226547
+
+Billing cycle
+
+Paid
+$2,156.72
+
+
+Select invoice
+Nov 4, 2020	
+#92696342
+
+Billing cycle
+
+Paid
+$2,157.91
+
+
+Select invoice
+Oct 4, 2020	
+#90188823
+
+Billing cycle
+
+Paid
+$2,051.84
+
+
+Select invoice
+Sep 22, 2020	
+#89290786
+
+Fee threshold
+
+Paid
+$54.41
+
+
+Select invoice
+Sep 10, 2020	
+#88323857
+
+Fee threshold
+
+Paid
+$83.91
+
+
+Select invoice
+Sep 4, 2020	
+#87833283
+
+Billing cycle
+
+Paid
+$2,155.72
+
+
+Select invoice
+Aug 4, 2020	
+#85445838
+
+Billing cycle
+
+Paid
+$2,157.35
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Jul 4, 2020	
+#83234875
+
+Billing cycle
+
+Paid
+$2,156.59
+
+
+Select invoice
+Jun 4, 2020	
+#81329678
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jun 4, 2020	
+#81328397
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jun 4, 2020	
+#81325148
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jun 4, 2020	
+#81325128
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jun 4, 2020	
+#81325123
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jun 4, 2020	
+#81325121
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jun 4, 2020	
+#81321957
+
+Billing cycle
+
+Paid
+$2,182.86
+
+
+Select invoice
+May 4, 2020	
+#79509792
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+May 4, 2020	
+#79508531
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+May 4, 2020	
+#79505325
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+May 4, 2020	
+#79505290
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+May 4, 2020	
+#79505280
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+May 4, 2020	
+#79505279
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+May 4, 2020	
+#79502140
+
+Billing cycle
+
+Paid
+$2,256.18
+
+
+Select invoice
+Apr 4, 2020	
+#77885456
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Apr 4, 2020	
+#77884191
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Apr 4, 2020	
+#77880919
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Apr 4, 2020	
+#77880878
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Apr 4, 2020	
+#77880876
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Apr 4, 2020	
+#77880873
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Apr 4, 2020	
+#77877691
+
+Billing cycle
+
+Paid
+$2,027.50
+
+
+Select invoice
+Mar 4, 2020	
+#76375422
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Mar 4, 2020	
+#76374167
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Mar 4, 2020	
+#76370743
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Mar 4, 2020	
+#76370719
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Mar 4, 2020	
+#76370713
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Mar 4, 2020	
+#76370711
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Mar 4, 2020	
+#76367451
+
+Billing cycle
+
+Paid
+$2,028.84
+
+
+Select invoice
+Feb 4, 2020	
+#75028021
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Feb 4, 2020	
+#75026656
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Feb 4, 2020	
+#75023209
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Feb 4, 2020	
+#75023171
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Feb 4, 2020	
+#75023170
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Feb 4, 2020	
+#75023168
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Feb 4, 2020	
+#75019873
+
+Billing cycle
+
+Paid
+$2,027.26
+
+
+Select invoice
+Jan 4, 2020	
+#73616871
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jan 4, 2020	
+#73615550
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jan 4, 2020	
+#73611920
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jan 4, 2020	
+#73611895
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Jan 4, 2020	
+#73611890
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jan 4, 2020	
+#73611886
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jan 4, 2020	
+#73608485
+
+Billing cycle
+
+Paid
+$2,027.39
+
+
+Select invoice
+Dec 4, 2019	
+#72229368
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Dec 4, 2019	
+#72228018
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Dec 4, 2019	
+#72224317
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Dec 4, 2019	
+#72224288
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Dec 4, 2019	
+#72224286
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Dec 4, 2019	
+#72224280
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Dec 4, 2019	
+#72220873
+
+Billing cycle
+
+Paid
+$2,027.80
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Nov 4, 2019	
+#70883092
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Nov 4, 2019	
+#70881706
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Nov 4, 2019	
+#70877952
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Nov 4, 2019	
+#70877917
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Nov 4, 2019	
+#70877915
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Nov 4, 2019	
+#70877914
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Nov 4, 2019	
+#70874425
+
+Billing cycle
+
+Paid
+$2,027.64
+
+
+Select invoice
+Oct 4, 2019	
+#69563705
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Oct 4, 2019	
+#69562587
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Oct 4, 2019	
+#69558428
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Oct 4, 2019	
+#69558408
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Oct 4, 2019	
+#69558401
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Oct 4, 2019	
+#69558399
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Oct 4, 2019	
+#69554864
+
+Billing cycle
+
+Paid
+$2,027.31
+
+
+Select invoice
+Sep 4, 2019	
+#68301167
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Sep 4, 2019	
+#68300004
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Sep 4, 2019	
+#68295710
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Sep 4, 2019	
+#68295684
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Sep 4, 2019	
+#68295682
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Sep 4, 2019	
+#68295681
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Sep 4, 2019	
+#68292084
+
+Billing cycle
+
+Paid
+$2,028.31
+
+
+Select invoice
+Aug 4, 2019	
+#67012067
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Aug 4, 2019	
+#67010885
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Aug 4, 2019	
+#67006206
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Aug 4, 2019	
+#67006167
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Aug 4, 2019	
+#67006166
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Aug 4, 2019	
+#67006164
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Aug 4, 2019	
+#67002341
+
+Billing cycle
+
+Paid
+$2,028.19
+
+
+Select invoice
+Jul 4, 2019	
+#65749258
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jul 4, 2019	
+#65747890
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Jul 4, 2019	
+#65743162
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jul 4, 2019	
+#65743103
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jul 4, 2019	
+#65743101
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jul 4, 2019	
+#65743099
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jul 4, 2019	
+#65739141
+
+Billing cycle
+
+Paid
+$2,028.02
+
+
+Select invoice
+Jun 4, 2019	
+#64512455
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jun 4, 2019	
+#64511029
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jun 4, 2019	
+#64506115
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jun 4, 2019	
+#64506076
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jun 4, 2019	
+#64506074
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Jun 4, 2019	
+#64506072
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jun 4, 2019	
+#64501992
+
+Billing cycle
+
+Paid
+$2,028.57
+
+
+Select invoice
+May 4, 2019	
+#63258989
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+May 4, 2019	
+#63257415
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+May 4, 2019	
+#63252512
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+May 4, 2019	
+#63252471
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+May 4, 2019	
+#63252468
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+May 4, 2019	
+#63252464
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+May 4, 2019	
+#63248172
+
+Billing cycle
+
+Paid
+$2,028.13
+
+
+Select invoice
+Apr 4, 2019	
+#62054510
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Apr 4, 2019	
+#62052885
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Apr 4, 2019	
+#62047789
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Apr 4, 2019	
+#62047742
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Apr 4, 2019	
+#62047738
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Apr 4, 2019	
+#62047737
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Apr 4, 2019	
+#62043327
+
+Billing cycle
+
+Paid
+$2,028.04
+
+
+Select invoice
+Mar 4, 2019	
+#60836746
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Mar 4, 2019	
+#60834934
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Mar 4, 2019	
+#60829757
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Mar 4, 2019	
+#60829701
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Mar 4, 2019	
+#60829694
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Mar 4, 2019	
+#60829693
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Mar 4, 2019	
+#60825389
+
+Billing cycle
+
+Paid
+$2,030.27
+
+
+Select invoice
+Feb 4, 2019	
+#59767719
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Feb 4, 2019	
+#59766025
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Feb 4, 2019	
+#59760317
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Feb 4, 2019	
+#59760265
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Feb 4, 2019	
+#59760264
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Feb 4, 2019	
+#59760263
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Feb 4, 2019	
+#59755777
+
+Billing cycle
+
+Paid
+$2,028.89
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Jan 4, 2019	
+#58641983
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jan 4, 2019	
+#58640127
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jan 4, 2019	
+#58634379
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jan 4, 2019	
+#58634325
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jan 4, 2019	
+#58634322
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jan 4, 2019	
+#58634321
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jan 4, 2019	
+#58629557
+
+Billing cycle
+
+Paid
+$2,000.00
+
+
+Select invoice
+Dec 4, 2018	
+#57551290
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Dec 4, 2018	
+#57549105
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Dec 4, 2018	
+#57543210
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Dec 4, 2018	
+#57543157
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Dec 4, 2018	
+#57543155
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Dec 4, 2018	
+#57543153
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Dec 4, 2018	
+#57538410
+
+Billing cycle
+
+Paid
+$2,000.00
+
+
+Select invoice
+Nov 4, 2018	
+#56496161
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Nov 4, 2018	
+#56493839
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Nov 4, 2018	
+#56487699
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Nov 4, 2018	
+#56487644
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Nov 4, 2018	
+#56487643
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Nov 4, 2018	
+#56487642
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Nov 4, 2018	
+#56482753
+
+Billing cycle
+
+Paid
+$2,000.04
+
+
+Select invoice
+Oct 4, 2018	
+#55463023
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Oct 4, 2018	
+#55460549
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Oct 4, 2018	
+#55453735
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Oct 4, 2018	
+#55453678
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Oct 4, 2018	
+#55453677
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Oct 4, 2018	
+#55453676
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Oct 4, 2018	
+#55448738
+
+Billing cycle
+
+Paid
+$2,000.02
+
+
+Select invoice
+Sep 4, 2018	
+#54476310
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Sep 4, 2018	
+#54473630
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Sep 4, 2018	
+#54466460
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Sep 4, 2018	
+#54466404
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Sep 4, 2018	
+#54466403
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Sep 4, 2018	
+#54466402
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Sep 4, 2018	
+#54461326
+
+Billing cycle
+
+Paid
+$2,000.00
+
+
+Select invoice
+Aug 4, 2018	
+#53486016
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Aug 4, 2018	
+#53483299
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Aug 4, 2018	
+#53475626
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Aug 4, 2018	
+#53475611
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Aug 4, 2018	
+#53475600
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Aug 4, 2018	
+#53475599
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Aug 4, 2018	
+#53470347
+
+Billing cycle
+
+Paid
+$2,000.00
+
+
+Select invoice
+Jul 4, 2018	
+#52521862
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jul 4, 2018	
+#52518546
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jul 4, 2018	
+#52510055
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jul 4, 2018	
+#52510014
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jul 4, 2018	
+#52510007
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jul 4, 2018	
+#52510006
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jul 4, 2018	
+#52504592
+
+Billing cycle
+
+Paid
+$2,000.00
+
+
+Select invoice
+Jun 4, 2018	
+#51601334
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Jun 4, 2018	
+#51592116
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jun 4, 2018	
+#51592070
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jun 4, 2018	
+#51592069
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jun 4, 2018	
+#51592067
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jun 4, 2018	
+#51586457
+
+Billing cycle
+
+Paid
+$2,000.01
+
+
+Select invoice
+May 4, 2018	
+#50657241
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+May 4, 2018	
+#50641171
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+May 4, 2018	
+#50641099
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+May 4, 2018	
+#50641091
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+May 4, 2018	
+#50641090
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+May 4, 2018	
+#50638864
+
+Billing cycle
+
+Paid
+$2,000.00
+
+
+Select invoice
+Apr 4, 2018	
+#48890106
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Apr 4, 2018	
+#48889932
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Apr 4, 2018	
+#48889924
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Apr 4, 2018	
+#48889922
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Apr 4, 2018	
+#48871206
+
+Billing cycle
+
+Paid
+$2,000.00
+
+
+Select invoice
+Mar 4, 2018	
+#47100758
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Mar 4, 2018	
+#47100514
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Mar 4, 2018	
+#47100512
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Mar 4, 2018	
+#47100506
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Mar 4, 2018	
+#47095868
+
+Billing cycle
+
+Paid
+$2,000.00
+
+
+Select invoice
+Feb 4, 2018	
+#45523280
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Feb 4, 2018	
+#45523096
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Feb 4, 2018	
+#45523086
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Feb 4, 2018	
+#45523084
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Feb 4, 2018	
+#45518616
+
+Billing cycle
+
+Paid
+$2,000.00
+
+
+Select invoice
+Jan 4, 2018	
+#43867326
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jan 4, 2018	
+#43867080
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jan 4, 2018	
+#43867078
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Jan 4, 2018	
+#43867074
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Jan 4, 2018	
+#43861922
+
+Billing cycle
+
+Paid
+$2,000.00
+
+
+Select invoice
+Dec 4, 2017	
+#42277420
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Dec 4, 2017	
+#42277154
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Dec 4, 2017	
+#42277152
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Dec 4, 2017	
+#42277150
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Dec 4, 2017	
+#42271362
+
+Billing cycle
+
+Paid
+$2,000.00
+
+
+Select invoice
+Nov 4, 2017	
+#40751630
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Nov 4, 2017	
+#40751340
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Nov 4, 2017	
+#40751338
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Nov 4, 2017	
+#40751332
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Nov 4, 2017	
+#40745088
+
+Billing cycle
+
+Paid
+$2,000.00
+
+
+Select invoice
+Oct 4, 2017	
+#39253717
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Oct 4, 2017	
+#39253357
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Oct 4, 2017	
+#39253351
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Oct 4, 2017	
+#39253349
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Oct 4, 2017	
+#39246163
+
+Billing cycle
+
+Paid
+$2,000.00
+
+
+Select invoice
+Sep 4, 2017	
+#37877799
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Sep 4, 2017	
+#37877485
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Sep 4, 2017	
+#37877483
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Sep 4, 2017	
+#37877477
+
+Billing cycle
+
+Paid
+$0.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Sep 4, 2017	
+#37868903
+
+Billing cycle
+
+Paid
+$2,000.00
+
+
+Select invoice
+Aug 4, 2017	
+#36525435
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Aug 4, 2017	
+#36525159
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Aug 4, 2017	
+#36525157
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Aug 4, 2017	
+#36525155
+
+Billing cycle
+
+Paid
+$0.00
+
+
+Select invoice
+Aug 4, 2017	
+#36516749
+
+Billing cycle
+
+Paid
+$1,781.00
+
+
+Select invoice
+Jul 4, 2017	
+#35207951
+
+Jul 4, 2017
+
+Paid
+$2,000.00
+
+
+Select invoice
+Jun 4, 2017	
+#33993863
+
+Jun 4, 2017
+
+Paid
+$1,986.83
+
+
+Select invoice
+Apr 9, 2017	
+#31849785
+
+Apr 09, 2017
+
+Paid
+$79.00
+
+
+Select invoice
+Mar 10, 2017	
+#30769331
+
+Mar 10, 2017
+
+Paid
+$79.00
+
+
+
+Select all invoices
+Date issued
+Bill number
+Bill type
+Payment status
+Amount
+
+Select invoice
+Feb 8, 2017	
+#29736017
+
+Feb 08, 2017
+
+Paid
+$79.00
+
+
+Select invoice
+Jan 9, 2017	
+#28766983
+
+Jan 09, 2017
+
+Paid
+$79.00
+
+
+Select invoice
+Dec 10, 2016	
+#27843029
+
+Dec 10, 2016
+
+Paid
+$79.00
+
+
+Select invoice
+Nov 10, 2016	
+#26922015
+
+Nov 10, 2016
+
+Paid
+$79.00
+
+
+Select invoice
+Oct 11, 2016	
+#26053319
+
+Oct 11, 2016
+
+Paid
+$79.00
+
+
+Select invoice
+Sep 11, 2016	
+#25214642
+
+Sep 11, 2016
+
+Paid
+$79.00
+
+
+Select invoice
+Aug 12, 2016	
+#24414824
+
+Aug 12, 2016
+
+Paid
+$79.00
+
+
+Select invoice
+Jul 13, 2016	
+#23643929
+
+Plan change
+
+Paid
+$0.00
+
+
+Select invoice
+Jul 13, 2016	
+#23639933
+
+Jul 13, 2016
+
+Paid
+$79.00
+
+
+
+
+
+
+
+
+
+
