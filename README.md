@@ -24,6 +24,7 @@ This repository contains the **essential affidavits, critical evidence, and key 
 ```
 canima/
 ├── README.md                          # This file
+├── INDEX.md                           # Comprehensive navigation guide
 ├── affidavits/                        # Core legal documents
 │   ├── Peter_Founding_Affidavit.md   # Applicant's founding affidavit
 │   └── Daniel_Answering_Affidavit.md # Daniel's response
@@ -32,14 +33,16 @@ canima/
 │   ├── Perjury_Analysis.md           # False statements under oath
 │   ├── UK_Funding_Perjury.md         # False debt claims
 │   └── Systematic_Blackout.md        # 2-year accounting obstruction
-├── annexures/                         # Key supporting documents
-│   ├── Power_Structure.md            # Bantjies → Rynette → Peter hierarchy
-│   ├── Ubuntu_Principle.md           # Kayla's R100M+ altruistic vision
-│   ├── Nine_Prong_Attack.md          # Coordinated destruction timeline
-│   └── Criminal_Motive_Analysis.md   # Bantjies R18.685M debt exposure
-└── analysis/                          # Strategic analysis documents
-    ├── Executive_Summary.md          # Quick reference guide
-    └── Gaps_Improvements.md          # Critical fixes required
+└── annexures/                         # Key supporting documents
+    ├── Power_Structure.md            # Bantjies → Rynette → Peter hierarchy
+    ├── Ubuntu_Principle.md           # Kayla's R100M+ altruistic vision
+    ├── Nine_Prong_Attack.md          # Coordinated destruction timeline
+    ├── Criminal_Motive_Analysis.md   # Bantjies R18.685M debt exposure
+    ├── Timeline_APR_SEP_2025.md      # April-September 2025 detailed timeline
+    ├── Timeline_2017_2025_Comprehensive.md  # Complete 8-year timeline
+    ├── Jacqui_May15_Confrontation_Retaliation.md  # May 15 smoking gun
+    ├── Jacqui_Betrayal_By_CoTrustees.md  # Trustee betrayal analysis
+    └── Warehouse_Sabotage_Detailed_Analysis.md  # Detailed warehouse analysis
 ```
 
 ---
@@ -118,6 +121,42 @@ canima/
 
 ---
 
+## Key Timeline Events (2017-2025)
+
+### Phase 1: Financial Structure Establishment (2019-2020)
+- February 20, 2020: Multiple adjusting journal entries across entities
+- February 28, 2020: R414K interest payment from SLG to RST
+- April 30, 2020: Villa Via year-end (R3.7M profit from rental income)
+
+### Phase 2: Business Relationship Development (2017-2021)
+- June 30, 2017: First invoice to RegimA Skin Treatments
+- September 30, 2017: Major service expansion (R100,000+)
+- 2017-2021: Ongoing business relationship and trust building
+
+### Phase 3: Debt Accumulation and Manipulation (2022-2023)
+- March 1, 2022: Opening balance showing R971,587.93 accumulated debt
+- July 11, 2022: First structured payments begin (R40,000)
+- February 28, 2023: Final balance R1,035,361.34 (debt continues to grow)
+- **July 13, 2023: KAYLA MURDERED** (critical turning point)
+
+### Phase 4: Fraud Discovery and Cover-up (2025)
+- **March 30, 2025:** Trap (dump 2 years expenses, 12-hour deadline)
+- **April 14, 2025:** Rynette sends email to all clients (new payment account)
+- **April 22, 2025:** Pete orders all cloud IT systems removed
+- **April 30, 2025:** Server missing from office
+- **May 15, 2025:** **JACQUI CONFRONTS RYNETTE** about R1,035,000 debt
+- **May 22, 2025:** Shopify audit trail disappears (7 days after confrontation)
+- **May 29, 2025:** Domain regimaskin.co.za registered (Adderory - Rynette's son)
+- **June 6, 2025:** Dan sends reports to Bantjies (cooperation)
+- **June 7, 2025:** 15 cards cancelled (next day retaliation, Jacqui's birthday)
+- **June 10, 2025:** Dan reports fraud and murder to Bantjies
+- **July 8, 2025:** Warehouse sabotage (POPI violations, R34.9M destruction)
+- **August 13, 2025:** Interdict granted (67-day delay proves false urgency)
+- **August 19, 2025:** Interdict delivered (Kayla's birthday, 6-day deliberate delay)
+- **September 11, 2025:** Accounts emptied (R1.73M, forced failure)
+
+---
+
 ## Criminal Offenses & Penalties
 
 ### South African:
@@ -160,21 +199,27 @@ canima/
 ## Document Navigation
 
 ### For Quick Overview:
-- Start with `analysis/Executive_Summary.md`
+- Start with **README.md** (this file)
+- Then **analysis/Executive_Summary.md**
 
 ### For Legal Documents:
-- Read `affidavits/Peter_Founding_Affidavit.md` (applicant's claims)
-- Then `affidavits/Daniel_Answering_Affidavit.md` (response)
+- Read **affidavits/Peter_Founding_Affidavit.md** (applicant's claims)
+- Then **affidavits/Daniel_Answering_Affidavit.md** (response)
 
 ### For Smoking Gun Evidence:
-- `evidence/Warehouse_Fraud_Evidence.md` (July 8, 2025 sabotage)
-- `evidence/Perjury_Analysis.md` (false statements)
-- `evidence/Systematic_Blackout.md` (2-year obstruction)
+- **evidence/Warehouse_Fraud_Evidence.md** (July 8, 2025 sabotage)
+- **evidence/Perjury_Analysis.md** (false statements)
+- **evidence/Systematic_Blackout.md** (2-year obstruction)
 
-### For Context:
-- `annexures/Power_Structure.md` (who controls what)
-- `annexures/Ubuntu_Principle.md` (what was destroyed)
-- `annexures/Nine_Prong_Attack.md` (coordinated timeline)
+### For Timeline Context:
+- **annexures/Timeline_APR_SEP_2025.md** (April-September 2025 detailed)
+- **annexures/Timeline_2017_2025_Comprehensive.md** (Complete 8-year timeline)
+- **annexures/Jacqui_May15_Confrontation_Retaliation.md** (May 15 smoking gun)
+
+### For Power Structure:
+- **annexures/Power_Structure.md** (who controls what)
+- **annexures/Ubuntu_Principle.md** (what was destroyed)
+- **annexures/Nine_Prong_Attack.md** (coordinated timeline)
 
 ---
 
@@ -182,7 +227,7 @@ canima/
 
 **Created:** October 31, 2025  
 **Purpose:** Minimal essential evidence repository  
-**Scope:** Core affidavits, smoking gun evidence, critical annexures only  
+**Scope:** Core affidavits, smoking gun evidence, critical annexures, detailed timelines  
 **Full Repository:** cogpy/ad-res-j7 (comprehensive 500,000+ word analysis)
 
 ---
