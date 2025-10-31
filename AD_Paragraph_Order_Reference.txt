@@ -1,104 +1,104 @@
 AD Paragraph Numbers from Peter's Founding Affidavit (in order):
 ======================================================================
-  1. AD 1
-  2. AD 1.3
-  3. AD 2
-  4. AD 2.4
-  5. AD 3
-  6. AD 3.2
-  7. AD 3.4
-  8. AD 3.4.2
-  9. AD 3.6
- 10. AD 3.6.1
- 11. AD 3.6.2
- 12. AD 3.7
- 13. AD 3.7.2
- 14. AD 3.8
- 15. AD 3.9
- 16. AD 3.11
- 17. AD 3.13
- 18. AD 4
- 19. AD 6.1
- 20. AD 6.3
- 21. AD 6.5
- 22. AD 7
- 23. AD 7.3
- 24. AD 7.6
- 25. AD 7.8
- 26. AD 7.10
- 27. AD 7.13
- 28. AD 7.16
- 29. AD 7.18
- 30. AD 7.20
- 31. AD 8.4
- 32. AD 8.5
- 33. AD 8.7
- 34. AD 8.10
- 35. AD 9.2
- 36. AD 9.3
- 37. AD 10.1
- 38. AD 10.3
- 39. AD 10.4
- 40. AD 10.5.2
- 41. AD 10.6
- 42. AD 10.6.1
- 43. AD 10.6.2
- 44. AD 10.6.3
- 45. AD 10.7
- 46. AD 10.7.1.2
- 47. AD 10.7.1.4
- 48. AD 10.8
- 49. AD 10.8.1
- 50. AD 10.9
- 51. AD 10.9.2
- 52. AD 10.9.3
- 53. AD 10.9.3.1
- 54. AD 10.9.3.2
- 55. AD 10.9.3.3
- 56. AD 10.10
- 57. AD 10.10.2.3
- 58. AD 10.10.2.4
- 59. AD 10.10.22
- 60. AD 10.10.41
- 61. AD 10.13
- 62. AD 10.14
- 63. AD 11.2
- 64. AD 11.3
- 65. AD 11.4
- 66. AD 11.6
- 67. AD 11.8
- 68. AD 12.1
- 69. AD 12.2
- 70. AD 12.3
- 71. AD 12.4
- 72. AD 13.2
- 73. AD 13.2.2
- 74. AD 13.3
- 75. AD 13.4
- 76. AD 13.5
- 77. AD 13.8
- 78. AD 14.1
- 79. AD 14.3
- 80. AD 14.4
- 81. AD 14.5
- 82. AD 16.1
- 83. AD 16.2
- 84. AD 16.5
- 85. AD 16.6
- 86. AD 16.8
- 87. AD 16.10
- 88. AD 16.12
- 89. AD 17.3
- 90. AD 17.4
- 91. AD 18.3
- 92. AD 20
- 93. AD 22
- 94. AD 40.9.4
- 95. AD 44
- 96. AD 50
- 97. AD 74
- 98. AD 78
- 99. AD 83
-100. AD 88
+  1. AD 1 - Director Liability for Breach of Fiduciary Duty
+  2. AD 1.3 - Applicant's Personal Details and Declaration
+  3. AD 2 - Company Business Conduct Requirements
+  4. AD 2.4 - Parties to the Application - Introduction
+  5. AD 3 - Court Order for Probation of Directors/Members
+  6. AD 3.2 - Respondents - Wife
+  7. AD 3.4 - Respondents - Son
+  8. AD 3.4.2 - Third Respondent - RegimA Skin Treatments
+  9. AD 3.6 - Fourth Respondent - Regim A UK
+ 10. AD 3.6.1 - Fifth Respondent - Villa Via Arcadia No 2 CC
+ 11. AD 3.6.2 - Windeed Printout Evidence for Villa Via Arcadia
+ 12. AD 3.7 - Sixth Respondent - Strategic Logistics CC
+ 13. AD 3.7.2 - Windeed Printout Evidence for Strategic Logistics
+ 14. AD 3.8 - Seventh Respondent - FirstRand Bank (FNB)
+ 15. AD 3.9 - Eighth and Ninth Respondents
+ 16. AD 3.11 - Reference to Respondents as Wife and Son
+ 17. AD 3.13 - Court Jurisdiction and Identity Confirmation
+ 18. AD 4 - Accountant Details - Bantjes and Company
+ 19. AD 6.1 - Relationships Between Parties
+ 20. AD 6.3 - Directors and Members of Respondent Entities
+ 21. AD 6.5 - Banking and Registration of Respondent Entities
+ 22. AD 7 - Urgency and Delay Considerations
+ 23. AD 7.3 - Urgency Details
+ 24. AD 7.6 - Financial Impact of Misconduct
+ 25. AD 7.8 - Continuing Harm to Corporations
+ 26. AD 7.10 - Card Cancellations and Service Interruptions
+ 27. AD 7.13 - Domain and Service Halts Due to Card Cancellations
+ 28. AD 7.16 - Son's Interference with Business Operations
+ 29. AD 7.18 - Email and Account Access Interference
+ 30. AD 7.20 - Continued Interference Not in Corporate Interests
+ 31. AD 8.4 - Discovery of Financial Discrepancies
+ 32. AD 8.5 - Accountant's Attendance and Findings
+ 33. AD 8.7 - IT Expenses and Tax Problems
+ 34. AD 8.10 - International Expenses and Tax Implications
+ 35. AD 9.2 - Bank Message Regarding International Transfers
+ 36. AD 9.3 - Financial Misconduct Summary
+ 37. AD 10.1 - Relief Sought - Delinquency or Probation
+ 38. AD 10.3 - Delinquent Conduct of Respondents
+ 39. AD 10.4 - Contravention of Companies Act
+ 40. AD 10.5.2 - Probation Relief Under Section 162
+ 41. AD 10.6 - Close Corporations Act - Fiduciary Duties
+ 42. AD 10.6.1 - Member's Duty to Manage in Corporation's Interest
+ 43. AD 10.6.2 - Member's Duty Not to Exceed Powers
+ 44. AD 10.6.3 - Member's Duty to Avoid Conflicts of Interest
+ 45. AD 10.7 - Member Liability for Breach of Fiduciary Duty
+ 46. AD 10.7.1.2 - Liability for Economic Benefit Derived
+ 47. AD 10.7.1.4 - Liability for Loss Suffered by Corporation
+ 48. AD 10.8 - Disqualification for Misconduct Under Section 47
+ 49. AD 10.8.1 - Declaration of Delinquency as Alternative Relief
+ 50. AD 10.9 - Mandatory Disqualification Under Section 162(5)
+ 51. AD 10.9.2 - Intentional or Grossly Negligent Harm
+ 52. AD 10.9.3 - Manner of Acting - Gross Negligence or Misconduct
+ 53. AD 10.9.3.1 - Gross Negligence or Wilful Misconduct
+ 54. AD 10.9.3.2 - Acquiescence to Fraudulent Acts
+ 55. AD 10.9.3.3 - Party to Omission with Fraudulent Purpose
+ 56. AD 10.10 - Probation Under Section 162(7)
+ 57. AD 10.10.2.3 - Oppressive or Prejudicial Exercise of Powers
+ 58. AD 10.10.2.4 - Conduct with Oppressive or Prejudicial Result
+ 59. AD 10.10.22 - Business Conducted in Oppressive Manner
+ 60. AD 10.10.41 - Conduct Inconsistent with Duties
+ 61. AD 10.13 - Unaccounted Money - Significant Sums
+ 62. AD 10.14 - Full Extent of Transgressions Not Yet Determined
+ 63. AD 11.2 - UK Head Office - RegimA UK Ltd
+ 64. AD 11.3 - Directors of UK Entity
+ 65. AD 11.4 - Applicant's Role in Operations
+ 66. AD 11.6 - UK Branch Operations
+ 67. AD 11.8 - UK Financial Concerns
+ 68. AD 12.1 - UK Branch Non-Payment and Fraud Concerns
+ 69. AD 12.2 - Misappropriation Leading to Insolvency Risk
+ 70. AD 12.3 - Purpose of Court Application
+ 71. AD 12.4 - Alternative Roles for Wife and Son
+ 72. AD 13.2 - Clear Right Not to Be Prejudiced
+ 73. AD 13.2.2 - Injury Sustained and Apprehension of Further Harm
+ 74. AD 13.3 - Reasonable Apprehension of Irreparable Harm
+ 75. AD 13.4 - Interdicts Essential for Corporation Survival
+ 76. AD 13.5 - Balance of Convenience Favours Granting Relief
+ 77. AD 13.8 - Other Relief Sought in Part A
+ 78. AD 14.1 - Financial Constraints on Respondents
+ 79. AD 14.3 - Constraint to Prevent Financial Prejudice
+ 80. AD 14.4 - Forensic Audit Necessity and Remuneration
+ 81. AD 14.5 - Request for Relief Under Part B
+ 82. AD 16.1 - Discovery of Respondents' Conduct
+ 83. AD 16.2 - R600,000 Transfer as Trigger for Action
+ 84. AD 16.5 - Unawareness of Urgent Application Process
+ 85. AD 16.6 - Delay Would Have Been Avoided
+ 86. AD 16.8 - State of Shock and Delayed Response
+ 87. AD 16.10 - Attorney Consultation Timeline
+ 88. AD 16.12 - Need for Urgent Court Assistance
+ 89. AD 17.3 - Ex Parte Basis for Application
+ 90. AD 17.4 - Urgency Justifies Ex Parte Relief
+ 91. AD 18.3 - Continual Unauthorized Fund Transfers
+ 92. AD 20 - First and Second Respondent Details
+ 93. AD 22 - Additional Party Information
+ 94. AD 40.9.4 - Gross Abuse of Director/Member Position
+ 95. AD 44 - Applicant Identity Details
+ 96. AD 50 - Registered Address Details
+ 97. AD 74 - Timeline Context
+ 98. AD 78 - Accountant's Office Visit and Discovery
+ 99. AD 83 - Irregular Payments Discovery
+100. AD 88 - Follow-up Actions
 
 Total AD paragraphs: 100
